@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd_Even", "Odd_Even\Odd_Even.csproj", "{9F090EA8-3ABE-4887-8E1F-B86B814FC735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceInversion", "SequenceInversion\SequenceInversion.csproj", "{2690A864-08D0-4947-A947-3AEAD0191EB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F090EA8-3ABE-4887-8E1F-B86B814FC735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F090EA8-3ABE-4887-8E1F-B86B814FC735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F090EA8-3ABE-4887-8E1F-B86B814FC735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F090EA8-3ABE-4887-8E1F-B86B814FC735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2690A864-08D0-4947-A947-3AEAD0191EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2690A864-08D0-4947-A947-3AEAD0191EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2690A864-08D0-4947-A947-3AEAD0191EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2690A864-08D0-4947-A947-3AEAD0191EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14452961-BCF7-41D1-B040-F94BC5C570C3}
+	EndGlobalSection
+EndGlobal
